@@ -1,4 +1,4 @@
- Something about Google Chrome
+                                          Something about Google Chrome
 
 
 Google Chrome is a freeware web browser developed by Google. It used the WebKit layout engine until version 27 and, with the exception of its iOS releases, from version 28 and beyond uses the WebKit fork Blink. It was firstreleased as a beta ver-
