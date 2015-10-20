@@ -1,5 +1,4 @@
-                                           Something about Google Chrome
-                                           
+ Something about Google Chrome
     Google Chrome is a freeware web browser developed by Google. It used the WebKit layout engine until version 27 and, with the exception of its iOS releases, from version 28 and beyond uses the WebKit fork Blink. It was firstreleased as a beta ver-
 sion for Microsoft Windows on September 2, 2008, and as astable public release on December 11, 2008. As of September 2015, 
 StatCounterestimates that Google Chrome has a 56% worldwide usage share of web browsers asa desktop browser. It is also the 
