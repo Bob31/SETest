@@ -24,16 +24,19 @@ or greater.
 Though it has already existed for quite a few years, to meet the newdemands of people, Google Chrome still needs to further improve some of itsfunctions.
 
 1.  Make memory usage rate down.
-  When you start Chrome, your PC’s memory seems to be ran out of, and when you are using it,memory usage can be lower obviously, so you can not use other software fluently because of low memory. Make memory usage rate down is very necessary!
+  When you start Chrome, your PC’s memory seems to be ran out of, and when you are using it,memory usage can be lower obviously, 
+so you can not ues other software fluently because of low memory. Make memory usage rate down is very necessary!
 
 2.  Make it more stable.
-  Though Google Chrome has a good stability, sometimes it will break up. Stability is the basis of good user experience.
+  Though Google Chrome has a good stability, sometimes it will break up. Stability is the basic of good user experience.
 
-3.  Make it use significantly less electricity.
-  Google Chrome is known as wasting a large amount of electricity. Only if Chrome changes this bad feature, can it have a better user experience and thus have a broader market in PC.
+3.  Make it use significantlyless electricity.
+  Google Chrome is Known as wasting electricity, only if Chrome canchange this bad feature, can it has a better user experience
+and have a brandermarket in PC.
 
-4.  Make hard disk read-write times fewer.
-  Google Chrome will have a lot of hard disk read-write action even if you don’t have any action to your PC. It will give PC a tough task to complete and make system speed down. It will also shorten the life of a hard disk.
+4.  Make hard disk read-writetimes times fewer.
+  Google Chrome will have a lot of hard disk read-write action even ifyou don’t have any actions to your PC. It will give PC a 
+tough task to completeand make system speed down. Also it will make hard dick life shorter.
 
 5.  Make it support all banking Website.
 
